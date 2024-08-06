@@ -1,6 +1,6 @@
 ### HOUSE PRICE PREDICTION
 
-Get the dataset here: 
+Get the dataset here: [Click Here](https://github.com/SarangSankara/project/raw/main/Capstone%20Project/innercity.xlsx)
 
 ## Problem statement:
 A house value is simply more than location and square footage. Like the features that make up a
